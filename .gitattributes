@@ -1,0 +1,7 @@
+# .gitattributes content
+# Set the default behavior for text files
+* text=auto
+
+# Ensure specific files (like the CSV and IPYNB) are treated as text and normalized
+AIML Dataset.csv text eol=lf
+analysis_model.ipynb text eol=lf

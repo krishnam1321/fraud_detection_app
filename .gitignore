@@ -1,0 +1,14 @@
+# .gitignore content
+# Virtual environment files
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Operating System files
+.DS_Store
+Thumbs.db
